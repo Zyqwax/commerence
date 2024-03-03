@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "BakBurada",
+    "slug": "bakburada",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/favicon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#48B600"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/favicon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.enessamed.bakburada"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
